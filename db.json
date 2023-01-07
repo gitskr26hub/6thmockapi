@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": "sugam",
+      "username": "sugam",
+      "email": "kr@gmail.com",
+      "password": "8580550000",
+      "todo": []
+    },
+    {
+      "id": "preet",
+      "username": "preet",
+      "email": "preet@gmail.com",
+      "password": "8580550001",
+      "todo": []
+    }
+  ]
+}

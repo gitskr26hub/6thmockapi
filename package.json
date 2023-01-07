@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "6thmock",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitskr26hub/6thmockapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitskr26hub/6thmockapi/issues"
+  },
+  "homepage": "https://github.com/gitskr26hub/6thmockapi#readme",
+  "description": ""
+}
